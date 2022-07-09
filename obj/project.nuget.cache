@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FWTV/CNUi9OwxpxQJVaYsUwsFBrvYJ5lzaamtTXoLOW1F2KYkM1cK0k8o/Bk7CFuOWRS9/9Q67YwfjEGnrpwpg==",
+  "dgSpecHash": "hsQKDCxZSEylOHDgXSj5uVNCtQfL52a8USgdegohekzs2wXN4QzsGju+keuSEKZbHCNAgzHhI6XuJCTOspGfAw==",
   "success": true,
-  "projectFilePath": "D:\\Work & Study\\MFPE\\RulesMicroservice\\RulesMicroservice.csproj",
+  "projectFilePath": "D:\\Work & Study\\MFPE - CLoud\\RulesMicroservice\\RulesMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BABIN\\.nuget\\packages\\log4net\\2.0.10\\log4net.2.0.10.nupkg.sha512",
     "C:\\Users\\BABIN\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.26\\microsoft.aspnetcore.authentication.jwtbearer.3.1.26.nupkg.sha512",

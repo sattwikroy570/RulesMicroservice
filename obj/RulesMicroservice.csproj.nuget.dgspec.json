@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work & Study\\MFPE\\RulesMicroservice\\RulesMicroservice.csproj": {}
+    "D:\\Work & Study\\MFPE - CLoud\\RulesMicroservice\\RulesMicroservice.csproj": {}
   },
   "projects": {
-    "D:\\Work & Study\\MFPE\\RulesMicroservice\\RulesMicroservice.csproj": {
+    "D:\\Work & Study\\MFPE - CLoud\\RulesMicroservice\\RulesMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work & Study\\MFPE\\RulesMicroservice\\RulesMicroservice.csproj",
+        "projectUniqueName": "D:\\Work & Study\\MFPE - CLoud\\RulesMicroservice\\RulesMicroservice.csproj",
         "projectName": "RulesMicroservice",
-        "projectPath": "D:\\Work & Study\\MFPE\\RulesMicroservice\\RulesMicroservice.csproj",
+        "projectPath": "D:\\Work & Study\\MFPE - CLoud\\RulesMicroservice\\RulesMicroservice.csproj",
         "packagesPath": "C:\\Users\\BABIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Work & Study\\MFPE\\RulesMicroservice\\obj\\",
+        "outputPath": "D:\\Work & Study\\MFPE - CLoud\\RulesMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
