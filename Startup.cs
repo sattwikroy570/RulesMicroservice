@@ -59,8 +59,7 @@ namespace RulesMicroservice
             {
                 app.UseDeveloperExceptionPage();
             }
-            loggerFactory.AddLog4Net();
-
+            
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
